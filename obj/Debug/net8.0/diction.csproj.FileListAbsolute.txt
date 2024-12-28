@@ -1,0 +1,14 @@
+C:\Users\SYS-232\Desktop\diction\bin\Debug\net8.0\diction.exe
+C:\Users\SYS-232\Desktop\diction\bin\Debug\net8.0\diction.deps.json
+C:\Users\SYS-232\Desktop\diction\bin\Debug\net8.0\diction.runtimeconfig.json
+C:\Users\SYS-232\Desktop\diction\bin\Debug\net8.0\diction.dll
+C:\Users\SYS-232\Desktop\diction\bin\Debug\net8.0\diction.pdb
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.AssemblyInfoInputs.cache
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.AssemblyInfo.cs
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.csproj.CoreCompileInputs.cache
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.dll
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\refint\diction.dll
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.pdb
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\diction.genruntimeconfig.cache
+C:\Users\SYS-232\Desktop\diction\obj\Debug\net8.0\ref\diction.dll
